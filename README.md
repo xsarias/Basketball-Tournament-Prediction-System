@@ -32,7 +32,7 @@ In the final phase, we integrated a Large Language Model (LLM) to enhance or com
 
 ---
 ## 📁 Documentation
-You can read the full report in the [Technical Report](,/Technical_Report_Tournament.pdf).
+You can read the full report in the [Technical Report](./Technical_Report_Tournament.pdf).
 
 You can read the full paper in the [Paper](./final_paper.pdf).
 
