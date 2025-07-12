@@ -31,6 +31,18 @@ In the final phase, we integrated a Large Language Model (LLM) to enhance or com
     │── Technical_Report_Tournament.pdf
 
 ---
+## 📁 Documentation
+You can read the full report in the [Technical Report](./Technical_Report_Tournament.pdf).
+
+You can read the full paper in the [Paper](./final_paper.pdf).
+
+You can read the full poster in the [Poster](./Basketball_tournament_poster.pdf).
+
+You can read the full slides in the [Slides](./Basketball_tournament_slides3.pdf).
+
+
+
+---
 ## 🚀 How to Run
 
 1. Clone the repository and navigate into the project directory.
